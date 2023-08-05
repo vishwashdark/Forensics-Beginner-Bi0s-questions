@@ -1,0 +1,9 @@
+Challenge Writeup
+
+Observe the Challenge file , it's in form of a PNG and the image is Corrupted . 
+Need to Fix the Image . use a tool known as "GHEX" .
+
+Analyze the Crtical chunks 
+
+PNG , IHDR , IDAT and fix them with proper Header files .
+
